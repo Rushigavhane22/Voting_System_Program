@@ -59,6 +59,9 @@ break;
  }
  }
 }
+{
+    cout<<"Welcome"<< endl
+}
 
  cout<<"**** ELECTION VOTING RESULT ****"<<endl;
 cout<<"Number of votes for A:"<<votes1<<endl;
